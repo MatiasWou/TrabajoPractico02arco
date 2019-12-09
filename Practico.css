@@ -1,0 +1,95 @@
+.form-row{
+
+width: 800px;
+position: relative;
+left:30px;
+
+}
+
+.form-roa{
+width: 200px;
+color: #6C6462;
+position: relative;
+left:4px;
+}
+
+
+
+
+body{
+
+background-image: url(https://andro4all.com/files/2019/02/Xiaomi-Mi-9.jpg);
+background-size: 100%;
+background-attachment: fixed;
+
+}
+
+form{
+width: 600px;
+margin: 0 auto;
+background-color: #E1D6D3;
+border-radius: 25px;
+border-width: 200px;
+height: 100%;
+}
+
+h1{
+  color: #D2DC0A;
+  position: relative;
+  left: 35%;
+}
+
+.form-check{
+
+  position: relative;
+  left: 30px;
+  color: #6C6462;
+
+}
+
+
+.ingresa{
+
+  position: relative;
+  left: 30px;
+  bottom: 10px;
+  color: #6C6462;
+
+}
+
+.signin{
+  position: relative;
+  left: 300px;
+ bottom: 50px;
+  color: #6C6462;
+}
+
+
+
+.stateee{
+
+  position: relative;
+  left:16px;
+
+}
+
+#inputState{
+
+position: relative;
+left:15px;
+
+}
+
+.form-group{
+width: 300px;
+color: #6C6462;
+
+}
+
+.form-grout{
+
+width: 300px;
+position: relative;
+left: 28px;
+color: #6C6462;
+}
