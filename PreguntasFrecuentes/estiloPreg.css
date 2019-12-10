@@ -1,0 +1,31 @@
+h1{
+color: black;
+text-align: center;
+align-self: auto;
+}
+
+
+h2{
+
+color: black;
+
+}
+
+.homeycosas{
+
+background-color: #E74848;
+
+}
+
+.lista{
+
+color: white;
+
+
+}
+
+li{
+font-size: 30px;
+list-style: none;
+color: #E74848;
+}
