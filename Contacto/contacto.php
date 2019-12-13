@@ -21,30 +21,28 @@
       <label for="nombreC">Nombre</label>
       <input type="text" class="form-control" id="nombreC">
     </div>
-   <div class="form-row">
-     <div class="form-group col-md-6">
-       <label for="emailC">Email</label>
-       <input type="email" class="form-control" id="emailC">
-     </div>
-     <div class="form-group col-md-6">
-  </div>
-  <div class="form-row">
+    <div class="form-row">
+       <div class="form-group col-md-6">
+         <label for="emailC">Email</label>
+         <input type="email" class="form-control" id="emailC">
+       </div>
+    </div>
+    <div class="form-row">
       <div class="form-group col-md-6">
         <label for="telefonoC">Telefono(opcional)</label>
         <input type="text" class="form-control" id="telefonoC">
        </div>
-     </div>
-   </div>
+    </div>
 
-   <div class="form-grout">
-     <label for="mensajeC">Mensaje(Opcional)</label>
-     <input type="text" class="form-control" id="mensajeC" >
+   <div class="form-row">
+     <div class="form-group col-md-8">
+       <label for="mensajeC">Mensaje(Opcional)</label>
+       <input type="text" class="form-control" id="mensajeC">
+    </div>
    </div>
 
    <div class="enviar">
-   <a href="">
    <button type="submit" class="btn btn-primary">Enviar</button>
-   </a>
    </div>
 
  </form>
